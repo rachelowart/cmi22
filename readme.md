@@ -99,7 +99,7 @@ Este  proyecto resulta interesante porque contiene elementos conocidos de la cul
 
 
 
-**Publico / audiencia**
+**Público / audiencia**
 
 - Orientado a todos los públicos (aunque más referido a jóvenes)
 
