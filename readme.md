@@ -46,9 +46,30 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+La aventura comienza con una introducción del bosque Manantial.
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![cascadaeditada(1)](https://user-images.githubusercontent.com/106731938/172645906-7a67a6bc-68cf-4493-9488-36f80458a168.jpg)
+
+Axel recibe una carta que le invita a recuperar un cristal perdido.
+
+![EDITADO_ESCRITORIO](https://user-images.githubusercontent.com/106731938/172646069-53889035-6c8b-4211-9c34-0ab49d33aef8.jpg)
+
+Posteriormente, aparece la pantalla de inicio del juego.
+
+
+![Capturacrystal](https://user-images.githubusercontent.com/106731938/172646502-aa2f4ca0-d44d-42fe-9d74-1abd92ace25b.JPG)
+
+Al hacer clic a "jugar", nos llevará a la primera pantalla del juego. 
+
+![Capturacrystal2](https://user-images.githubusercontent.com/106731938/172646851-5633dda0-afcd-4237-82fe-2e2aaa04027a.JPG)
+
+Podremos interactuar con el personaje del minotauro. Posteriormente, llegaremos al siguiente escenario usando las teclas de dirección. 
+
+
+![Capturacrystal3](https://user-images.githubusercontent.com/106731938/172647205-6a1cd3ea-e633-4da5-b0bb-ccbf9d74774c.JPG)
+
+Finalmente volveremos al escenario anterior para finalizar la aventura.
 
 
 
@@ -125,8 +146,9 @@ Este  proyecto es interesante porque contiene elementos conocidos de la cultura 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica: "Celtic Ambient Harp"
-
+* Música: "Celtic Ambient Harp", de Raw Vibrations. www.jamendo.com
+* "Spiritual", "Simple Things", "Changes", música de www.fiftysounds.com
+* Efectos de sonido de: http://www.sonidosmp3gratis.com
 * Tipografía: Google Fonts (Square Peg).
 
 **Herramientas utilizadas**
