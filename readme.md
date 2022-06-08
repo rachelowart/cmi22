@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : Mi Proyecto: Crystal
+**Titulo** : Crystal
 
 **Web:**   https://rachelowart.github.io/Crystal/
 
