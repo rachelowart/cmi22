@@ -18,11 +18,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Videojuego de fantasía.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
 ![EDITADOTITULOPIXELS](https://user-images.githubusercontent.com/106731938/172640179-77ef09e2-c994-4d09-b2e2-205823bd79bc.png)
 
-(insertar imágenes a resolucion de 100px alto)
+
 
 **Resolución:** 800x600px tamaño fijo.
 
@@ -36,9 +36,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: @rachelowart
+
+- Instagram: @_rachelowart
 
 
 
@@ -87,7 +87,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos.
 
 
 
@@ -99,15 +99,15 @@ Este  proyecto es interesante porque ...
 
 - Juego. 
 - Video 
-- Instrucciones y ayuda al usuario 
+- Galería de imágenes
 - Menús y elementos de navegación (botones)
-- etc.
+- Grabación de vídeo (diseño de un personaje)
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+No se reproduce correctamente el vídeo añadido desde galería.
 
 
 
@@ -136,7 +136,7 @@ Este  proyecto es interesante porque ...
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
 
 
 
