@@ -76,12 +76,7 @@ Finalmente volveremos al escenario anterior para finalizar la aventura.
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+![Esquema de navegación Crystal](https://user-images.githubusercontent.com/106731938/172651615-7f5bfdc8-255b-4ec2-9520-de6794634017.jpg)
 
 
 
