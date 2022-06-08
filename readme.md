@@ -34,7 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 08/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github: @rachelowart
 
