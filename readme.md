@@ -123,7 +123,7 @@ Este  proyecto resulta interesante porque contiene elementos conocidos de la cul
 
 # 4. Conclusiones 
 
-Este videojuego iba a constar de una historia más extensa, mayor número de personajes, etc. Es un proyecto que se ha adecuado al tiempo del que se ha dispuesto para realizarlo. 
+El proceso de realización del proyecto ha resultado en una experiencia gratificante, en la que he podido aplicar los numerosos nuevos conceptos aprendidos en clase. Este videojuego iba a constar de una historia más extensa, mayor número de personajes, etc. Es un proyecto que se ha adecuado al tiempo del que se ha dispuesto para realizarlo. 
 
 
 # 5 Referencias 
