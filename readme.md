@@ -16,9 +16,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto es una breve aventura gráfica.
 
-**Estilo/género:**  Videojuego 
+**Estilo/género:**  Videojuego de fantasía.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+
+![EDITADOTITULOPIXELS](https://user-images.githubusercontent.com/106731938/172640179-77ef09e2-c994-4d09-b2e2-205823bd79bc.png)
 
 (insertar imágenes a resolucion de 100px alto)
 
