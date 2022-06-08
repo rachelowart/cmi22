@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Raquel Fuentes Herrera
 
-**Resumen** : Este proyecto es una breve aventura gráfica.
+**Resumen** : Breve aventura gráfica.
 
 **Estilo/género:**  Videojuego de fantasía.
 
