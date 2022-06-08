@@ -90,12 +90,12 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** 
 
-- Inspiración en títulos como "The legend of Zelda" o "Pókemon", y su estética pixelizada, típica también en los juegos atribuidos a la marca de consolas Nintendo DS.
+- Inspiración en títulos como "The legend of Zelda" o "Pokémon", y su estética pixelizada, típica también en los juegos atribuidos a la marca de consolas Nintendo DS.
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque contiene elementos conocidos de la cultura popular, además de preservar la estética durante todo el videojuego. 
+Este  proyecto resulta interesante porque contiene elementos conocidos de la cultura popular, además de preservar la estética durante todo el videojuego. 
 
 
 
@@ -123,12 +123,7 @@ Este  proyecto es interesante porque contiene elementos conocidos de la cultura 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+Este videojuego iba a constar de una historia más extensa, mayor número de personajes, etc. Es un proyecto que se ha adecuado al tiempo del que se ha dispuesto para realizarlo. 
 
 
 # 5 Referencias 
