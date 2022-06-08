@@ -16,13 +16,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto es una breve aventura gráfica.
 
-**Estilo/género:**  Videojuego
+**Estilo/género:**  Videojuego 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px
+**Resolución:** 800x600px tamaño fijo.
 
 **Probado en:**   MS Edge
 
@@ -39,7 +39,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
