@@ -93,7 +93,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
 - Inspiración en títulos como "The legend of Zelda" o "Pókemon", y su estética pixelizada, típica también en los juegos atribuidos a la marca de consolas Nintendo DS.
 
@@ -111,8 +111,6 @@ Este  proyecto es interesante porque contiene elementos conocidos de la cultura 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
-
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
 - Video 
