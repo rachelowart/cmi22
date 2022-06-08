@@ -74,22 +74,18 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- Inspiración en títulos como "The legend of Zelda" o "Pókemon", y su estética pixelizada, típica también en los juegos atribuidos a la marca de consolas Nintendo DS.
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque contiene elementos conocidos de la cultura popular, además de preservar la estética durante todo el videojuego. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a todos los públicos.
-
-
+- Orientado a todos los públicos (aunque más referido a jóvenes)
 
 
 
@@ -107,7 +103,7 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-No se reproduce correctamente el vídeo añadido desde galería.
+- No se reproduce correctamente el vídeo añadido desde galería.
 
 
 
@@ -129,9 +125,9 @@ No se reproduce correctamente el vídeo añadido desde galería.
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: "Celtic Ambient Harp"
+
+* Tipografía: Google Fonts (Square Peg).
 
 **Herramientas utilizadas**
 
